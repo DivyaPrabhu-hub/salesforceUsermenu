@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UsermenuTest" duration-ms="17437" started-at="2019-12-07T00:50:29 PST" finished-at="2019-12-07T00:50:46 PST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="17437" started-at="2019-12-07T00:50:29 PST" finished-at="2019-12-07T00:50:46 PST">
+      <class name="UsermenuTest">
+        <test-method status="PASS" signature="path()[pri:0, instance:UsermenuTest@5442a311]" name="path" is-config="true" duration-ms="2431" started-at="2019-12-07T00:50:29 PST" finished-at="2019-12-07T00:50:31 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- path -->
+        <test-method status="PASS" signature="setupdriver()[pri:0, instance:UsermenuTest@5442a311]" name="setupdriver" is-config="true" duration-ms="1696" started-at="2019-12-07T00:50:31 PST" finished-at="2019-12-07T00:50:33 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdriver -->
+        <test-method status="PASS" signature="TC02_LogintoSFDC()[pri:1, instance:UsermenuTest@5442a311]" name="TC02_LogintoSFDC" duration-ms="3273" started-at="2019-12-07T00:50:33 PST" finished-at="2019-12-07T00:50:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_LogintoSFDC -->
+        <test-method status="PASS" signature="usermenu()[pri:2, instance:UsermenuTest@5442a311]" name="usermenu" duration-ms="4796" started-at="2019-12-07T00:50:36 PST" finished-at="2019-12-07T00:50:41 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usermenu -->
+        <test-method status="PASS" signature="teardownDriver()[pri:0, instance:UsermenuTest@5442a311]" name="teardownDriver" is-config="true" duration-ms="5195" started-at="2019-12-07T00:50:41 PST" finished-at="2019-12-07T00:50:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownDriver -->
+      </class> <!-- UsermenuTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- UsermenuTest -->
+</testng-results>

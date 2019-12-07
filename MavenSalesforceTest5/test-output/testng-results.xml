@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17432" started-at="2019-12-07T08:37:55Z" finished-at="2019-12-07T08:38:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17432" started-at="2019-12-07T08:37:55Z" finished-at="2019-12-07T08:38:12Z">
+      <class name="UsermenuTest">
+        <test-method status="PASS" signature="path()[pri:0, instance:UsermenuTest@7dc36524]" name="path" is-config="true" duration-ms="2907" started-at="2019-12-07T00:37:55Z" finished-at="2019-12-07T00:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- path -->
+        <test-method status="PASS" signature="setupdriver()[pri:0, instance:UsermenuTest@7dc36524]" name="setupdriver" is-config="true" duration-ms="2579" started-at="2019-12-07T00:37:57Z" finished-at="2019-12-07T00:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdriver -->
+        <test-method status="PASS" signature="TC02_LogintoSFDC()[pri:1, instance:UsermenuTest@7dc36524]" name="TC02_LogintoSFDC" duration-ms="3498" started-at="2019-12-07T00:38:00Z" finished-at="2019-12-07T00:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_LogintoSFDC -->
+        <test-method status="PASS" signature="usermenu()[pri:2, instance:UsermenuTest@7dc36524]" name="usermenu" duration-ms="3237" started-at="2019-12-07T00:38:04Z" finished-at="2019-12-07T00:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usermenu -->
+        <test-method status="PASS" signature="teardownDriver()[pri:0, instance:UsermenuTest@7dc36524]" name="teardownDriver" is-config="true" duration-ms="5195" started-at="2019-12-07T00:38:07Z" finished-at="2019-12-07T00:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownDriver -->
+      </class> <!-- UsermenuTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
